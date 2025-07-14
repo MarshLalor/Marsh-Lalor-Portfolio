@@ -6,7 +6,8 @@ Results-oriented Agile Transformation Leader with 10+ years of experience drivin
 EXPERIENCE
 
 Director of Strategy and Portfolio Management, Portfolio Management Office     August 2022 - Current
-Unum, Chattanooga TN		
+Unum, Chattanooga TN	
+
 •	Lead the creation and validation of Agile project plans, resulting in optimized returns and effective strategy execution in the Digital Transformation Office
 
 •	Created a project tracking system for the Transformation Management Team to organize and align on priorities, risks, and upcoming milestones.
@@ -22,19 +23,26 @@ Unum, Chattanooga TN
 
 Senior Digital Transformation Specialist				January 2020 – August 2022
 Unum, Chattanooga TN
+
 •	Worked as the Product Owner for several IT software and process improvement projects within Unum including Service Now implementation, Sales Force implementation, AWS Chatbot capabilities, and web portal updates
+
 •	Led change management and adoption efforts for Digital Transformation initiatives of over $10 million.
+
 •	Applied change management principles to drive new process adoption, resulting in a 50% improvement in project impact and effectiveness.
 
 
 Continuous Improvement Consultant				             January 2016 – January 2020
-Unum, Chattanooga TN							                                           
+Unum, Chattanooga TN				
+
 •	Drove optimization and cost reduction projects with savings of over $2 million dollars a year.
+
 •	Scaled a new operational model to over 300 specialists and their clients resulting in improved customer satisfaction.
+
 •	Coached and trained other team members in problem solving, process improvement, and operations management.
 
 Lean, Safety, Environmental Manager				      August 2012 – January 2016
-Valmont Industries							                                           
+Valmont Industries		
+
 •	Managed implementation of corporate Safety and Environmental standards, while leading continuous improvement and capital projects to improve efficiency.
 
 
