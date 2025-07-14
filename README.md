@@ -8,10 +8,15 @@ EXPERIENCE
 Director of Strategy and Portfolio Management, Portfolio Management Office     August 2022 - Current
 Unum, Chattanooga TN		
 •	Lead the creation and validation of Agile project plans, resulting in optimized returns and effective strategy execution in the Digital Transformation Office
+
 •	Created a project tracking system for the Transformation Management Team to organize and align on priorities, risks, and upcoming milestones.
+
 •	Build strong relationships with key business partners to effectively drive governance and planning activities across a large portfolio of initiatives.
+
 •	Directed a $45 million digital transformation portfolio, implementing innovative strategies to maximize impact and value.
+
 •	Champion Lean, Agile, and continuous improvement methodologies to drive efficiency and process improvements within my team and with those teams I work with.
+
 •	Drive the creation and validation of cost benefit analysis for up to 15 software and process improvement projects a year.
 
 
